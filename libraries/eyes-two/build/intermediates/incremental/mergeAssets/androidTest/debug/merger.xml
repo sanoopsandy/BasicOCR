@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="6.0.4"><source path="D:\Parse-Starter-Project-1.13.0\Tess\MyApplication\libraries\eyes-two\build\intermediates\exploded-aar\com.rmtheis\tess-two\6.0.4\assets"/></dataSet><dataSet config="debug"><source path="D:\Parse-Starter-Project-1.13.0\Tess\MyApplication\libraries\eyes-two\build\intermediates\bundles\debug\assets"/></dataSet><dataSet config="main"><source path="D:\Parse-Starter-Project-1.13.0\Tess\MyApplication\libraries\eyes-two\src\androidTest\assets"/></dataSet></merger>
